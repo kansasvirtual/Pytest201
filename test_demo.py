@@ -1,6 +1,6 @@
-def test_demo():
-    assert True
+def test_add():
+    assert demo.add(1, 2) == 3
 
 
-def test_demo_fails():
-    assert False
+def test_error():
+    pass
