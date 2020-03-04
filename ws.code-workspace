@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/geo/.local/share/virtualenvs/Pytest201-JtENP4Ld/bin/python"
+	}
+}
